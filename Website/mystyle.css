@@ -24,3 +24,14 @@ ul {
 h2 {
     text-align: center;
 }
+
+
+div {
+    background-color: rgb(255, 216, 216);
+    width: 1000px;
+    border: 15px solid rgb(213, 131, 158);
+    padding: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+  }
