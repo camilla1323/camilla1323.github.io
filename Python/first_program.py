@@ -17,4 +17,4 @@ print('You will be ' + str(int(myAge) + 1) + ' in a year.')
 
 print('What is your favourite color?') # ask for their favourite color
 myFavouriteColor = input()
-print('That is a lovely color, ' + myFavouriteColor)
+print(myFavouriteColor + ' is a lovely and wonderful color ' + myName)
