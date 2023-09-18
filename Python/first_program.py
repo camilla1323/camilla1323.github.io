@@ -22,3 +22,17 @@ print(myFavouriteColor + ' is a lovely and wonderful color ' + myName)
 print('What is your favourite cake?') # ask for their favourite cake
 myFavouriteCake = input()
 print('Such a wonderful choice ' + myName + '. ' + myFavouriteCake + ' is delicious.')
+
+print('Which country do you live in?') # ask what country they are from
+myCountry = input()
+print('What a lovly country you live in ' + myName + '. ' + myCountry + ' is a beautiful country.')
+
+print('What city do you live in?') # ask what city they live in
+myCity = input()
+print('Sounds like a lovely city to live in.')
+
+print('Name one thing you like to do in ' + myCity + '.') # ask what they like to do in their city
+myFun = input()
+print('That sounds like a fun activity to do in ' + myCity + '.')
+
+
