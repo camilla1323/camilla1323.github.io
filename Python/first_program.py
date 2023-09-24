@@ -35,4 +35,14 @@ print('Name one thing you like to do in ' + myCity + '.') # ask what they like t
 myFun = input()
 print('That sounds like a fun activity to do in ' + myCity + '.')
 
+print('How long can you hold your breath?') # ask how long they can hold their breath
+myBreath = input()
+print('That was not very long ' + myName + '. I can hold it for so much longer than YOU!!')
 
+print('Guess you did not expect that, did you?')
+myAnswer = input()
+print('I feel sorry for you ' + myName + '. ' + myBreath + ' is not a very long time to hold your breath! Loser.')
+
+print('Want to tell me something?')
+myYes=input()
+print('Loser.')
