@@ -46,3 +46,7 @@ print('I feel sorry for you ' + myName + '. ' + myBreath + ' is not a very long 
 print('Want to tell me something?')
 myYes=input()
 print('Loser.')
+
+print('What is your favourite number?')
+myNumber = input()
+print('What a cool number, mine is ' + str(int(myNumber) + 11) + ' .')
