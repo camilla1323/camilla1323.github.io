@@ -50,3 +50,10 @@ print('Loser.')
 print('What is your favourite number?')
 myNumber = input()
 print('What a cool number, mine is ' + str(int(myNumber) + 11) + ' .')
+
+
+number = int(input("Select a spot 1-99: "))
+        print('that is not a number 1-99!')
+
+
+
