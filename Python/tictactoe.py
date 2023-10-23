@@ -8,6 +8,7 @@ currentPlayer = "X"
 winner = None
 gameRunning = True
 
+
 # game board
 def printBoard(board):
     print(board[0] + " | " + board[1] + " | " + board[2])
